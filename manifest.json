@@ -1,0 +1,9 @@
+{
+  "name": "City Hunter Caccia al Tesoro",
+  "short_name": "CityHunter",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#0984e3",
+  "icons": [{ "src": "https://img.icons8.com/fluency/512/map-marker.png", "sizes": "512x512", "type": "image/png" }]
+}
